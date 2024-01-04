@@ -1,4 +1,9 @@
 created a new file and push it to the github!
 -create using vim and cat to show text
+<<<<<<< HEAD
 -this is pushed file
 -insert
+=======
+-created pull and push requst
+
+>>>>>>> 2a41303a3746b0c21e38987cff9756bf1eba65e3
